@@ -1,0 +1,250 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>My Lord Lucas his speech in the House of Peers, Feb. the 22. 1670/1 upon the reading of the subsidy bill the second time, in the presence of His Majesty.</title>
+            <author>Lucas of Shenfield, John Lucas, Baron, 1606-1671.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1671</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49382</idno>
+            <idno type="STC">Wing L3392</idno>
+            <idno type="STC">ESTC R38061</idno>
+            <idno type="EEBO-CITATION">17164217</idno>
+            <idno type="OCLC">ocm 17164217</idno>
+            <idno type="VID">106089</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49382)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106089)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1619:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>My Lord Lucas his speech in the House of Peers, Feb. the 22. 1670/1 upon the reading of the subsidy bill the second time, in the presence of His Majesty.</title>
+                  <author>Lucas of Shenfield, John Lucas, Baron, 1606-1671.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>1670 [i.e. 1671]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:106089:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 17 -->
+            <pb facs="tcp:106089:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 17 -->
+            <p>My Lord Lucas HIS SPEECH IN THE Houſe of Peers, <hi>Feb.</hi> the 22. 1670/1 UPON The Reading of the Subſidy BILL the ſecond Time, in the pre<g ref="char:EOLhyphen"/>ſence of his. MAJESTY.</p>
+            <q>
+               <l>Aude aliquid brevibus, Gyaris &amp; Carcere dignum</l>
+               <l>Si vis eſſe aliquis Probitas laudatur &amp; alget.</l>
+               <bibl>JUVENAL Sat. 1.</bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed in the Year 1670.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:106089:2"/>
+            <!-- PDF PAGE 18 -->
+            <head>To the Reader.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Need not tell you that this <hi>Speech</hi> was <hi>Burnt</hi> by the hand of the <hi>Common Hang-man,</hi> it <hi>being done</hi> in a <hi>publick place,</hi> to the great grief and aſtoniſhment of all <hi>True-Engliſhmen,</hi> to whom my <hi>Lord Lucas</hi> his <hi>Loyalty</hi> to his <hi>Prince,</hi> and his <hi>inviolable Love</hi> to his <hi>Country,</hi> was abundantly manifeſted.</p>
+            <p>But I <hi>dare affirm</hi> this <hi>Barbarous uſage</hi> did ſo little diſcourage him from doing his <hi>Duty,</hi> that he would have ſubmitted himſelf to the <hi>ſame Fate,</hi> if his <hi>Death</hi> might have prevented theſe <hi>approaching Calamities</hi> and evil <hi>Counſels,</hi> which have ſince been ſo fatally <hi>Deſtructive</hi> to this poor <hi>Kingdom.</hi> But God has taken him from an <hi>ungrateful Generati<g ref="char:EOLhyphen"/>on,</hi> and from the <hi>Evil</hi> to <hi>Come,</hi> and left us to lament the loſs of ſo wor<g ref="char:EOLhyphen"/>thy a <hi>Patriot;</hi> for now he is gone, who ſhall ſhew his <hi>Sacred Majeſty,</hi> thoſe dreadful precipices, whereon <hi>French Fraud,</hi> and <hi>Popiſh Malice</hi> has <hi>placed</hi> him? From <hi>whence</hi> they daily expect not only to ſee him fall, but to daſh himſelf in pieces.</p>
+            <p>Who ſhall tell the <hi>Houſe of Peers</hi> by what <hi>Generous Steps their An<g ref="char:EOLhyphen"/>ceſtors aſcended to thoſe Immortal Titles of Honour and Renown?</hi>
+            </p>
+            <p>And who ſhall tell the <hi>Houſe of Commons,</hi> of their <hi>profuſe</hi> and <hi>La<g ref="char:EOLhyphen"/>viſh Squandering</hi> the <hi>Wealth</hi> and <hi>Liberties</hi> of this now weak and pe<g ref="char:EOLhyphen"/>riſhing (but once <hi>Mighty and Invincible</hi>) <hi>People.</hi>
+            </p>
+            <p>If none are left amongſt us that dare imitate the <hi>Vertues</hi> of this <hi>Noble Lord;</hi> I hope that there are ſome that will venture to Read this <hi>SPEECH,</hi> and if they have any <hi>Relicts of Vertue,</hi> and of a <hi>Pious L<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve</hi> to <hi>their Countrey;</hi> I am confident it will give them a <hi>New Soul,</hi> and inflame them with a Generons Deſire of doing that for their <hi>Country,</hi> which this Juſt and truly Honourable Lord intended; if an unhappy Death had not prevented him.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb n="3" facs="tcp:106089:2"/>
+            <!-- PDF PAGE 18 -->
+            <head>My <hi>Lord Lucas</hi>'s Speech, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>My Lords,</salute>
+            </opener>
+            <p>WHen by the Providence of Almight <hi>God,</hi> this Nati<g ref="char:EOLhyphen"/>on recalled his <hi>Majeſty</hi> to the exerciſe of the <hi>Regal Power,</hi> it was the hope of all good men, That we ſhould not only be reſtored to his <hi>Majeſties</hi> Royal preſence and Divine <hi>Laws,</hi> but we ſhould be free from thoſe heavy Buthens, under which we had lain ſo long oppreſt; We did believe that from thenceforth every man ſhould ſit under his <hi>own Vine,</hi> en<g ref="char:EOLhyphen"/>joying the <hi>Fruits of Peace and Plenty;</hi> and <hi>Aſtrea</hi> her ſelf, (long ſince for the ſins of men fled up to Heaven,) ſhould have been invited by his <hi>Majeſties</hi> moſt Gracious and Happy Raign, to return hither, and dwell with us, and converſe here amongſt us <hi>Mortals</hi> again.</p>
+            <p>But <hi>alas!</hi> we are fallen very ſhort of our expectations and our Burthens are ſo far from being made lighter to us, that they are heavier then ever they were! and as our Burthens are increaſed, ſo our Strength alſo is diminiſhed, and we are leſs able to ſupport them.</p>
+            <p>In the <hi>Times</hi> of the late <hi>
+                  <g ref="char:V">Ʋ</g>ſurping Powers,</hi> although great Taxes were exacted from us we had then means to pay them, we could ſell our <hi>Lands,</hi> our <hi>Corn and Cattle,</hi> and there was plenty of Money throughout the <hi>Nation;</hi> now there is nothing of this; <hi>Brick is re<g ref="char:EOLhyphen"/>quired of us, and no Straw allowed to make it with.</hi> For that our Lands are thrown up, and <hi>Corn</hi> and <hi>Cattle</hi> are of little value, is notorious to all the <hi>World.</hi>
+            </p>
+            <p>And it is evident that there is ſcarcity of <hi>Money;</hi> for all the <hi>Parlia<g ref="char:EOLhyphen"/>ment</hi> money called <hi>Breeches,</hi> (a fit ſtamp for the Coyn of the <hi>Rump</hi>) is wholly vaniſhed, the Kings <hi>Proclamation</hi> and the <hi>Dutch,</hi> have ſwept it all away, and of his own Majeſties Coyn, there appears but very little, ſo that in effect we have not left for Common uſe, but a little old <hi>Lean Coyned Money,</hi> of the late three former <hi>Princes,</hi> and what Supply is preparing for it my Lords? I hear of none, unleſs it
+<pb n="4" facs="tcp:106089:3"/>
+               <!-- PDF PAGE 19 -->be of <hi>Copper Farthings,</hi> and this is the <hi>Mettal</hi> that is to <hi>Vindicate</hi> (ac<g ref="char:EOLhyphen"/>cording to the <hi>Inſcription</hi> on it,) <hi>The Dominion of the four Seas.</hi>
+            </p>
+            <p>And yet if amidſt this ſcarcity, the vaſt Sums given were all im<g ref="char:EOLhyphen"/>ployed for the <hi>King</hi> and <hi>Kingdom,</hi> it would not ſo much trouble us: But we cannot without infinite Regret of Heart, See ſo great a part of it pounded up in the Purſes of other private men, and ſee them flouriſh in <hi>Eſtates,</hi> who at the Time of his <hi>Majeſties</hi> moſt happy <hi>Re<g ref="char:EOLhyphen"/>ſtauration,</hi> were worth very little or nothing; and now the ſame <hi>Men</hi> purchaſe <hi>Lands, and keep their Coach and Six Horſes, their Pages, and their Lacqueyes;</hi> while in the mean time thoſe that have faithfully ſerved the <hi>King,</hi> are expoſed to <hi>Penury and want,</hi> and ſcarce ſufficient left to buy them <hi>Bread.</hi>
+            </p>
+            <p>And is this <hi>my Lords</hi> the Reward of our <hi>Services?</hi> have we for this born the <hi>Heat of the Day,</hi> been Impriſoned, Sequeſtered, ventured our <hi>Lives and Families, our Eſtates and our Fortunes?</hi> And muſt we after all this <hi>Sacrifice ſo much</hi> of our poor <hi>Remainder</hi> to the <hi>Will</hi> of a <hi>few particular Men,</hi> and to the <hi>Maintenance of their Vanities?</hi>
+            </p>
+            <p>But ſuppoſe all the <hi>Money</hi> given were imployed for the Uſe of his <hi>Majeſty,</hi> and his <hi>Majeſty</hi> were not Couzened <hi>(as without doubt he is)</hi> is there no bound to, or <hi>Moderation</hi> in giving? will you ſay that if we ſhall not plentifully Supply his <hi>Majeſty,</hi> he will not be able to de<g ref="char:EOLhyphen"/>fend us, or maintain the <hi>Tripple League? And we ſhall thereby run the Hazzard of being Conquered.</hi>
+            </p>
+            <p>'Tis true, <hi>My Lords</hi> that this may be a <hi>Reaſon</hi> for giving ſome<g ref="char:EOLhyphen"/>thing, But 'tis ſo far from being an <hi>Argument</hi> for giving ſo much, that it may be clearly made out to your <hi>Lordſhips,</hi> that it is the <hi>direct and ready way to be Conquered by a Forreigner, And it may be the Policy of the</hi> French <hi>King,</hi> by thoſe often <hi>Alarms of Armies and Fleets</hi> to induce us to <hi>conſume</hi> our <hi>Treaſure</hi> in vain Preparations againſt him; And after he has by this means made <hi>us poor and Weak</hi> enough, he may then come upon us, and <hi>Deſtrey</hi> us.</p>
+            <p>It is not <hi>my Lords,</hi> the giving of a great deal, but the well ma<g ref="char:EOLhyphen"/>naging of the <hi>Money</hi> given that muſt keep us ſafe from our Enemies; Your <hi>Lordſhips</hi> may be pleaſed to call to mind the Story of <hi>Sampſon,</hi> who while he preſerved his Hair wherein his Strength lay, was ſtil <hi>Victor over his Enemies;</hi> But when (by the enticement of his <hi>Dalilah,</hi>) his Hair war cut off, the <hi>Philiſtines</hi> came upon him, and <hi>overcame</hi>
+               <pb n="5" facs="tcp:106089:3"/>
+               <!-- PDF PAGE 19 -->him: And ſo <hi>my Lords,</hi> if we ſhall preſerve and Husband well our <hi>Treaſure</hi> wherein our Strength and the Sinews of War lye, and ap<g ref="char:EOLhyphen"/>ply it to the right Uſes, we ſhall ſtill be Superior to all our <hi>Enemies,</hi> but if we ſhall vainly and imprudently miſ-ſpend it, we ſhall become an eaſie prey to them.</p>
+            <p>Beſides <hi>my Lords,</hi> what is this but <hi>Ne morari Mori,</hi> and for fear of being conquered by a <hi>Forreigner,</hi> put our ſelves into a condition almoſt as bad, pardon me <hi>My Lords,</hi> if I ſay in ſome Reſpects a great deal worſe; for when we are under the Power of the <hi>Victor,</hi> we know we can fall no lower; and the certainties of our <hi>Miſeries</hi> are ſome kind of diminution of them: But in this <hi>wild way</hi> we have no cer<g ref="char:EOLhyphen"/>tainty at all, for if you give thus much to day, you may give as much more to morrow, and never leave <hi>giving</hi> till we have given all that ever we have away, and the Anxiety of mind which ariſes from this doubtful <hi>Eſtate,</hi> is an high <hi>Addition</hi> to our <hi>Afflictions.</hi>
+            </p>
+            <p>All that we <hi>beg My Lords,</hi> is that we may be able to make ſome Eſtimate of ourſelves; would his <hi>Majeſty</hi> be <hi>pleaſed</hi> to have a quarter of our <hi>Eſtates,</hi> for my part he ſhall <hi>Have it:</hi> would his <hi>Majeſty be pleaſed to have half,</hi> for my part upon a good occaſion he ſhall <hi>Have it:</hi> But I beſeech your <hi>Lordſhips</hi> then that we may have ſome aſſurance of the quiet enjoyment of the <hi>Remainder,</hi> and know what we have to truſt to.</p>
+            <p>
+               <hi>My Lords,</hi> the <hi>Commons</hi> have here ſent us up a <hi>Bill</hi> for the giving his <hi>Majeſty</hi> the twentieth part of our <hi>Eſtates</hi> at the full <hi>extended value;</hi> and I hear there are other <hi>Bills</hi> for <hi>Money alſo preparing,</hi> which to<g ref="char:EOLhyphen"/>gether according to the beſt computation, will amount to little leſs than three <hi>Millions of Money,</hi> a prodigious Sum, and ſuch that if your <hi>Lordſhips</hi> ſhall not afford Relief, we muſt of neceſſity ſink under the weight of ſo heavy a Preſſure.</p>
+            <p>
+               <hi>My Lords,</hi> the <hi>Scripture</hi> tells us that <hi>God Almighty ſets hounds unto the Ocean, and ſays unto it, Hither ſhall thy proud Waves come and no further.</hi> And ſo I hope your <hi>Lorſhips</hi> in imitation of the <hi>Divinity</hi> will ſet ſome <hi>Bounds, ſome Limits</hi> to this over <hi>Liberal Humour</hi> of the <hi>Commons,</hi> and ſay to them <hi>Hither ſhall your Profuſeneſs come and no further.</hi>
+            </p>
+            <p>
+               <hi>My Lords, either your Lordſhips</hi> can deny or moderate a <hi>Bill</hi> for <hi>Mo<g ref="char:EOLhyphen"/>ney</hi> coming from the <hi>Commons;</hi> or if you cannot, all your <hi>great
+<pb n="6" facs="tcp:106089:4"/>
+                  <!-- PDF PAGE 20 -->Eſtates</hi> are wholly at their diſpoſal, and your <hi>Lordſhips</hi> have nothing that you can properly call <hi>your own,</hi> and then let us paſs this <hi>Bill</hi> with<g ref="char:EOLhyphen"/>out further Examination; But if you can deny or moderate (as with<g ref="char:EOLhyphen"/>out Queſtion you can) your <hi>Lordſhips</hi> never had, nor poſſibly ever will have ſuch a <hi>fair Occaſion</hi> to ſhew it.</p>
+            <p>
+               <hi>My Lords,</hi> upon the whole matter, I moſt humbly propoſe to your <hi>Lordſhips,</hi> that your <hi>Lordſhips</hi> will be pleaſed to reduce the 12<hi>d.</hi> in the Pound to 8<hi>d.</hi> And truly <hi>My Lords</hi> I have ſome reaſon to hope that if your <hi>Lordſhips</hi> will duely reflect upon it, ye will find it fit to do accordingly; for in the <hi>firſt place</hi> it will be ſo far from being a <hi>ſervice</hi> to his <hi>Majeſty,</hi> that your <hi>Lordſhips</hi> will do his <hi>Majeſty</hi> in it the higheſt Service in the <hi>World;</hi> for although ye ſhall thereby take from his <hi>Majeſty</hi> a part of the Sum, you will give him a great deal more in the <hi>Love and Hearts</hi> of his <hi>Subjects; and there his Majeſty muſt Reign if he will be Great and Glorious.</hi>
+            </p>
+            <p>And next your <hi>Lordſhips</hi> acquire to your ſelves eternal Honour ye ſhall thereby indear your ſelves to the <hi>whole Nation,</hi> who for the fu<g ref="char:EOLhyphen"/>ture will look upon you as the <hi>Ancients</hi> did upon their <hi>Tutelary Gods;</hi> nor ſhall the <hi>Houſe of Commons</hi> but the <hi>Houſe of Peers, be</hi> hereafter <hi>Precious</hi> in their Sight.</p>
+            <p>
+               <hi>My Lords</hi> give me leave to mind your <hi>Lordſhips,</hi> that Noble <hi>Acts</hi> are <hi>Steps</hi> whereby the <hi>Great Men</hi> of the <hi>World</hi> aſcend the <hi>Throne of Glory.</hi> And can there be a nobler Act to <hi>Releaſe a diſtreſſed Kingdom,</hi> which lyes Languiſhing under ſo hard <hi>Oppreſſions,</hi> and about to be <hi>ſo much more Oppreſſed.</hi>
+            </p>
+            <p>I do detain your <hi>Lordſhips</hi> too long, and therefore ſhall ſay no more, But muſt beg your <hi>Lordſhips</hi> Pardon, and ſubmit all to your <hi>Better Judgments.</hi>
+            </p>
+         </div>
+         <div type="account_of_events">
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>I ſhall give you a ſhort though not a full Account of the <hi>Miſchief</hi> happened ſince this Speech.</p>
+            <p n="1">1. <hi>THe Sirict Alliance with</hi> France.</p>
+            <p n="2">2. <hi>Shutting up the</hi> Exchequer.</p>
+            <p n="3">3. <hi>Breach</hi> of the Triple League, <hi>and the preſent War with the Confe<g ref="char:EOLhyphen"/>derate the</hi> States <hi>of the</hi> Low Countries.</p>
+            <p n="4">
+               <pb n="7" facs="tcp:106089:4"/>
+               <!-- PDF PAGE 20 -->
+4. <hi>Fall of Lands. and decay of Trade.</hi>
+            </p>
+            <p n="5">5. <hi>Sending ſo great Forces to</hi> France, <hi>under</hi> French <hi>and</hi> Popiſh <hi>Com<g ref="char:EOLhyphen"/>manders, to be debauched in their</hi> Religion, <hi>and thereby to introduce an Arbitrary Power at Home.</hi>
+            </p>
+            <p n="6">6. <hi>Our Loſſes at Sea by</hi> Privateers, <hi>amounting to at leaſt two-Millions.</hi>
+            </p>
+            <p n="7">7. <hi>Corrupting of Members of</hi> Parliament.</p>
+            <p n="8">8. <hi>Drunken and debauch'd Elections.</hi>
+            </p>
+            <p n="9">9. <hi>Oppreſſion in Quartering of Souldiers.</hi>
+            </p>
+            <p n="10">10. <hi>Preſſing of</hi> Engliſh <hi>men to ſerve in the Wars out of the Nation.</hi>
+            </p>
+            <p n="11">11. <hi>Loſs of many Thouſands of our Seamen in this Picture War.</hi>
+            </p>
+            <p n="12">12. <hi>Making</hi> Papiſts, Atheiſts, <hi>and</hi> French <hi>Penſioners, Miniſters of State.</hi>
+            </p>
+            <p n="13">13. <hi>Great Conſumption of the Treaſure of the Nation by the Privy Purſe.</hi>
+            </p>
+            <p n="14">14. <hi>Sending Ignorant and ill-affected Embaſſadors abroad.</hi>
+            </p>
+            <p n="15">15. <hi>Debauching the Nation by Maſquerades.</hi>
+            </p>
+            <p n="16">16. <hi>Favour ſhown to</hi> Papiſts <hi>at</hi> Court.</p>
+            <p n="17">17. <hi>Continuing Salaries to thoſe that refus'd to abjure Tranſubſtantia<g ref="char:EOLhyphen"/>tion.</hi>
+            </p>
+            <p n="18">18. <hi>Diſſentions at Sea between</hi> Proteſtant <hi>and</hi> Popiſh <hi>Officers.</hi>
+            </p>
+            <p n="19">19. <hi>Incouragement of</hi> Popery <hi>in</hi> Ireland, <hi>notwithſtanding the late Ad<g ref="char:EOLhyphen"/>dreſſes of</hi> Parliament.</p>
+            <p n="20">20. <hi>Defrauding of our Seamen of their Pay.</hi>
+            </p>
+            <p n="21">21. <hi>Great and Grievous Taxes, notwithſtanding our Grievous Poverty.</hi>
+            </p>
+            <p n="22">22. <hi>Suſpending the Penal Laws againſt the</hi> Popiſh Prieſts <hi>and</hi> Jeſuits.</p>
+            <p n="23">23. <hi>Loſs of the Dominion of the Seas by the Treachery of the</hi> Engliſh.</p>
+            <p n="24">24. <hi>His Highneſs refuſing the Teſts for prevention of</hi> Popery, <hi>and Marrying a</hi> Papiſt (<hi>Neice to a</hi> Cardinal) <hi>to the great ſtrengthning of the</hi> Popiſh <hi>and</hi> French <hi>Intereſt at home and abroad.</hi>
+            </p>
+            <p n="25">25. <hi>Making a</hi> French Lieutenant General, <hi>to the great Diſhonour of the</hi> Engliſh <hi>Nobility.</hi>
+            </p>
+            <p n="26">26. <hi>Making</hi> French Carwell <hi>an</hi> Engliſh Dutcheſs, <hi>to the great Diſ<g ref="char:EOLhyphen"/>grace of the Ladies and Gentlewomen of this Nation.</hi>
+            </p>
+            <p>This was Printed in haſte, but I intend ſhortly to make it appear, that the <hi>Moneys</hi> given to his <hi>Majeſty</hi> by the <hi>Parliament,</hi> ſince his bleſ<g ref="char:EOLhyphen"/>ſed <hi>Reſtauration;</hi> Amounts to more then this poor <hi>Kingdom</hi> is now worth.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
